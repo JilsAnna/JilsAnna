@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Jils Devasia, a passionate Data Analyst.
+ 👋 Hi, I'm Jils Devasia, a passionate Data Analyst.
   
 💻 ETL Tester | Aspiring Data Analyst
 🎯 3+ years of experience in ETL Testing | Transitioning to Data Analytics
