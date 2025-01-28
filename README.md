@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @JilsAnna (Jils Devasia), you can call me as JILS
-- 👀 I’m interested in Learning New Things...
-- 🌱 I’m currently learning Data Science and Analytics...
-- 💞️ I’m looking to collaborate on Data Science and Analytics and Software Testing Areas ...
-- 📫 You can reach me Through Linkedln : username: Jils Devasia...
+- 👋 Hi, I'm Jils Devasia, a passionate Data Analyst.
+  
+💻 ETL Tester | Aspiring Data Analyst
+🎯 3+ years of experience in ETL Testing | Transitioning to Data Analytics
+
+🌟 Skills:
+
+ETL Testing: SQL, AWS Redshift, ALM, SAP BO, Redwood.
+Data Handling: Strong expertise in data validation, migration, and quality assurance.
+Tools: Proficient in designing and executing test cases for data pipelines.
+
+📈 Passionate about:
+
+Transforming raw data into meaningful insights.
+Leveraging analytical tools and techniques to drive decision-making.
+
+🌱 Currently Learning:
+
+Data Analytics concepts and tools (e.g., Power BI, Tableau, Python)
+
+To transition into a Data Analytics role and contribute to building data-driven solutions.
+
 
 <!---
 JilsAnna/JilsAnna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
